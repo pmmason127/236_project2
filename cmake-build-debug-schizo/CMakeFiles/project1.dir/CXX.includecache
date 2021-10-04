@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.I6inDSxy1I/Parameter.h
+vector
+-
+string
+-
+Token.h
+/tmp/tmp.I6inDSxy1I/Token.h
+
+/tmp/tmp.I6inDSxy1I/Predicate.cpp
+Predicate.h
+/tmp/tmp.I6inDSxy1I/Predicate.h
+
+/tmp/tmp.I6inDSxy1I/Predicate.h
+vector
+-
+string
+-
+sstream
+-
+iostream
+-
+Token.h
+/tmp/tmp.I6inDSxy1I/Token.h
+Parameter.h
+/tmp/tmp.I6inDSxy1I/Parameter.h
+
+/tmp/tmp.I6inDSxy1I/Token.h
+string
+-
+iostream
+-
+

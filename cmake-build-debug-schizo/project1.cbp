@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="project1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project1">
+				<Option output="/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo/project1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 project1"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="project1/fast">
+				<Option output="/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo/project1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 project1/fast"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/tmp/tmp.I6inDSxy1I/cmake-build-debug-schizo/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/AddAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/AddAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/ColonAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/ColonAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/ColonDashAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/ColonDashAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/CommaAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/CommaAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/CommentAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/CommentAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/DatalogProgram.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/DatalogProgram.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/EoFAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/EoFAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/FactsAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/FactsAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/IDAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/IDAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/LeftParenAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/LeftParenAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/Lexer.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/Lexer.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/MultiplyAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/MultiplyAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/Parameter.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/Parameter.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/Parser.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/Parser.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/PeriodAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/PeriodAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/Predicate.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/Predicate.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/QMarkAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/QMarkAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/QueriesAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/QueriesAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/RightParenAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/RightParenAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/Rule.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/Rule.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/RulesAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/RulesAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/SchemesAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/SchemesAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/StringAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/StringAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/Token.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/Token.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/UndefinedAutomaton.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/UndefinedAutomaton.h">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/main.cpp">
+			<Option target="project1"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.I6inDSxy1I/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
