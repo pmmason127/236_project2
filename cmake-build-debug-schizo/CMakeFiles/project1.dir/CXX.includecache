@@ -6,6 +6,40 @@
 
 #IncludeRegexTransform: 
 
+/tmp/tmp.I6inDSxy1I/Automaton.h
+Token.h
+/tmp/tmp.I6inDSxy1I/Token.h
+
+/tmp/tmp.I6inDSxy1I/DatalogProgram.h
+Predicate.h
+/tmp/tmp.I6inDSxy1I/Predicate.h
+Rule.h
+/tmp/tmp.I6inDSxy1I/Rule.h
+Parameter.h
+/tmp/tmp.I6inDSxy1I/Parameter.h
+Predicate.h
+/tmp/tmp.I6inDSxy1I/Predicate.h
+Token.h
+/tmp/tmp.I6inDSxy1I/Token.h
+vector
+-
+string
+-
+
+/tmp/tmp.I6inDSxy1I/Lexer.h
+iostream
+-
+cctype
+-
+vector
+-
+string
+-
+Automaton.h
+/tmp/tmp.I6inDSxy1I/Automaton.h
+Token.h
+/tmp/tmp.I6inDSxy1I/Token.h
+
 /tmp/tmp.I6inDSxy1I/Parameter.h
 vector
 -
@@ -14,9 +48,17 @@ string
 Token.h
 /tmp/tmp.I6inDSxy1I/Token.h
 
-/tmp/tmp.I6inDSxy1I/Predicate.cpp
-Predicate.h
-/tmp/tmp.I6inDSxy1I/Predicate.h
+/tmp/tmp.I6inDSxy1I/Parser.h
+Token.h
+/tmp/tmp.I6inDSxy1I/Token.h
+Lexer.h
+/tmp/tmp.I6inDSxy1I/Lexer.h
+DatalogProgram.h
+/tmp/tmp.I6inDSxy1I/DatalogProgram.h
+iostream
+-
+vector
+-
 
 /tmp/tmp.I6inDSxy1I/Predicate.h
 vector
@@ -27,8 +69,26 @@ sstream
 -
 iostream
 -
+algorithm
+-
 Token.h
 /tmp/tmp.I6inDSxy1I/Token.h
+Parameter.h
+/tmp/tmp.I6inDSxy1I/Parameter.h
+
+/tmp/tmp.I6inDSxy1I/Rule.h
+string
+-
+iostream
+-
+sstream
+-
+vector
+-
+Token.h
+/tmp/tmp.I6inDSxy1I/Token.h
+DatalogProgram.h
+/tmp/tmp.I6inDSxy1I/DatalogProgram.h
 Parameter.h
 /tmp/tmp.I6inDSxy1I/Parameter.h
 
@@ -36,5 +96,15 @@ Parameter.h
 string
 -
 iostream
+-
+sstream
+-
+
+/tmp/tmp.I6inDSxy1I/main.cpp
+Lexer.h
+/tmp/tmp.I6inDSxy1I/Lexer.h
+Parser.h
+/tmp/tmp.I6inDSxy1I/Parser.h
+fstream
 -
 

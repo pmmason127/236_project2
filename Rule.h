@@ -27,13 +27,14 @@ public:
     int idList(int& index, vector<Token*> tokenList);
 
     string rulesToString();
+    void ErrorCheck(int& index, vector<Token*> tokenList, string tokenName);
     string GetErrorMessage();
 
 private:
     int _rules = 0;
     stringstream myString;
-    string _ErrorMessage;
-
+    int _returnValue;
+    string _errorMessage = "";
     vector<string> _rulesList;
 };
 

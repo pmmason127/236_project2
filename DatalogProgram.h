@@ -14,8 +14,12 @@ class DatalogProgram
 {
 public:
     DatalogProgram(vector<Token*> tokenList);
+    void RunProgram(vector<Token*> tokenList);
+    void ErrorCheck(int& index, vector<Token*> tokenList, string tokenName);
+    void PrintResult(string schemes = "", string facts = "", string rules = "", string queries = "", string domain = "");
 private:
-    string _errorMessage;
+    string failMessage;
+    bool inputFail = false;
 };
 
 

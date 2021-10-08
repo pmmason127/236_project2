@@ -25,10 +25,7 @@ int main(int argc, char** argv)
                        "\n"
                        "Queries:\n"
                        "  HasSameAddress('Snoopy',Who)?\n"
-                        "  HasSameAddress('Snoopy',Who)?\n"
-                        "  HasSameAddress('Snoopy',Who)?\n"
-                        "  HasSameAddress('Snoopy',Who)?\n"
-                        "test";
+                        "  HasSameAddress('Snoopy',Who)?\n";
     }
     else
     {

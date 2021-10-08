@@ -39,14 +39,18 @@ public:
 
     void AddToDomain(string newString);
     string GetDomain();
+
+    void ErrorCheck(int& index, vector<Token*> tokenList, string tokenName);
     string GetErrorMessage();
+
 
 private:
     int _schemes = 0;
     int _facts = 0;
     int _queries = 0;
+    int _returnValue = 0;
 
-    string _ErrorMessage;
+    string _errorMessage = "";
 
     stringstream myString;
 

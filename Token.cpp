@@ -60,3 +60,13 @@ void Token::SetTokenType(TokenType newTokenType)
 {
     _tokenType = newTokenType;
 }
+
+int Token::GetLineNumber()
+{
+    return _lineNumber;
+}
+
+void Token::SetNewLineNumber(int newNumber)
+{
+    _lineNumber = newNumber;
+}

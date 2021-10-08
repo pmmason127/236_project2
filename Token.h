@@ -46,6 +46,8 @@ public:
     string GetTokenType();
     void SetStringValue(string newValue);
     void SetTokenType(TokenType newTokenType);
+    int GetLineNumber();
+    void SetNewLineNumber(int newNumber);
 };
 
 #endif // TOKEN_H
